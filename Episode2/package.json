@@ -1,0 +1,27 @@
+{
+  "name": "react-episode2",
+  "version": "1.0.0",
+  "description": "I am learning react",
+  "keywords": [
+    "Learning",
+    "React"
+  ],
+  "homepage": "https://github.com/SrijithManikandan09/React#readme",
+  "bugs": {
+    "url": "https://github.com/SrijithManikandan09/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrijithManikandan09/React.git"
+  },
+  "license": "ISC",
+  "author": "Srijith Manikandan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
